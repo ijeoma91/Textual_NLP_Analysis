@@ -1,6 +1,5 @@
 # Textual_NLP_Analysis
-This project is a textual analysis project. In this prpject we will use Natural processing Language techniques to analyze a collection text collected from Kaggle open sources data collection.
-
+This project is a textual NLP analysis project. In this prpject we will use Natural processing Language techniques to analyze a collection unstructured text data which was collected from kaggle open data source. The main goal is to extract insight from the unstructured data. In this project the Business expert want to use the techniques to find answers to their questions which does not have subject matters. They also want to know the cuases why customer complains, their business problems and finally identify patterns in customer communication their by reducing the customer complaints.
 
 # Getting Started
 
